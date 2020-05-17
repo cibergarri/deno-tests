@@ -61,13 +61,13 @@ Using Deno module for writing file
   deno run --allow-write write-file/index.ts
 ```
 
- ## Deno Module for dates
+## Deno Module for dates
 
  ```
    deno run dates/index.ts
  ```
  
- ## Checking all modules in Deno namespace
+## Checking all modules in Deno namespace
 
 ```
   deno run deno-namespace/index.ts
